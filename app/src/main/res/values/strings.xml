@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="full_name_label">Full Name:</string>
+    <string name="first_name_label">First</string>
+    <string name="last_name_label">Last</string>
+    <string name="gender_label">Gender:</string>
+    <string name="male_label">Male</string>
+    <string name="female_label">Female</string>
+    <string name="student_id_label">Student ID:</string>
+    <string name="school_label">School:</string>
+    <string name="email_label">Email:</string>
+    <string name="email_hint">example@user.com</string>
+    <string name="phone_label">Phone:</string>
+    <string name="register_label">Register</string>
+</resources>

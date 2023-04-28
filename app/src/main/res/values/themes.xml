@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RegistrationApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/blue</item>
+        <item name="textColorPrimary">@color/white</item>
+    </style>
+    <style name="Theme.RegistrationApp" parent="Base.Theme.RegistrationApp" />
+</resources>
